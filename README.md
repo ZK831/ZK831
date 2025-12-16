@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋, I'm Kunj Mokani</h1>
+<h1 align="center">Hi 👋, I'm kunj mokani</h1>
 <h3 align="center">🚀 Full Stack Developer </h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=satyamnavdiya&color=blue" />
+  <img src="https://komarev.com/ghpvc/?username=kunjmokani&color=blue" />
 </p>
 
 ---
@@ -32,4 +32,4 @@
 </p>
 
 <p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kunjmokani&theme=tokyonight"
+  <img src="https://github-readme-streak-stats.herokuapp.com/?use
