@@ -9,10 +9,9 @@
 
 ## 👨‍💻 About Me
 
-- 🔭 I’m currently working on **Next.js, GSAP & MERN projects**
+- 🔭 I’m currently working on **HTML, CSS , JS ,PYTHON projects**
 - 🌱 Learning **modern frontend animation & scalable systems**
-- 💼 Working at **Codespire, Surat**
-- 💬 Ask me about **React, Next.js, MongoDB, Express, GSAP**
+- 💼 Working at **La minds, Surat**
 - ⚡ Fun fact: *I animate pixels and caffeinate bugs ☕*
 
 ---
