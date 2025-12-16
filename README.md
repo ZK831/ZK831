@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Satyam Navdiya</h1>
-<h3 align="center">🚀 Full Stack Developer | MERN | Next.js</h3>
+<h1 align="center">Hi 👋, I'm Kunj Mokani</h1>
+<h3 align="center">🚀 Full Stack Developer </h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=satyamnavdiya&color=blue" />
@@ -20,7 +20,7 @@
 ## 🛠 Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,tailwind,git,github,vscode,figma" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,mongodb,tailwind,github,vscode,figma" />
 </p>
 
 ---
