@@ -28,8 +28,8 @@
 ## 📊 GitHub Stats
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=satyamnavdiya&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kunjmokani&show_icons=true&theme=tokyonight" />
 </p>
 
 <p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=satyamnavdiya&theme=tokyonight"
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kunjmokani&theme=tokyonight"
